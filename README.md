@@ -18,6 +18,13 @@ I have completed this project in 5 steps as follows:
 
 ### Step-3 - Exploratory Data Analysis 
 
-### Step-4 - Data Visualization 
+* (i) Exploratory Data Analysis with SQL - https://github.com/ShirsaM/Projects-Data-Science/blob/main/Step-3%20-%20Exploratory%20Data%20Analysis%20with%20SQL.ipynb
+* (ii) Exploratory Data Analysis with Pandas & Matplotlib - https://github.com/ShirsaM/Projects-Data-Science/blob/main/Step-3%20-%20EDA%20with%20Pandas%20%26%20Matplotlib.ipynb
+
+### Step-4 - Data Visualization
+
+* (i) Data Visualization with Dashboard - https://github.com/ShirsaM/Projects-Data-Science/blob/main/Step-4%20-%20Data%20Visualization%20with%20Dashboard.ipynb
 
 ### Step-5 - Prediction using Machine Learning Algorithms
+
+* (i) Machine Learning Prediction - https://github.com/ShirsaM/Projects-Data-Science/blob/main/Step-5%20Machine%20Learning%20Prediction.ipynb
