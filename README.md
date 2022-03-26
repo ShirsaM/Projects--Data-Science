@@ -23,7 +23,8 @@ I have completed this project in 5 steps as follows:
 
 ### Step-4 - Data Visualization
 
-* (i) Data Visualization with Dashboard - https://github.com/ShirsaM/Projects-Data-Science/blob/main/Step-4%20-%20Data%20Visualization%20with%20Dashboard.ipynb
+* (i) Data Visualization with Folium maps - https://github.com/ShirsaM/Projects-Data-Science/blob/main/Step-4%20-%20Data%20Visualization%20with%20Dashboard.ipynb
+* (ii) Data Visualization with Plotly Dashboard - https://github.com/ShirsaM/Projects-Data-Science/blob/main/Step4_spacex_dash_app.py
 
 ### Step-5 - Prediction using Machine Learning Algorithms
 
